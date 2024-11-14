@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outils d'Optimisation - OptimizeYourGame</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Outils d'Optimisation</h1>
+    </header>
+    <main>
+        <h2>Test de vitesse Internet</h2>
+        <p>Vérifiez la qualité de votre connexion Internet pour évaluer si elle peut supporter une expérience de jeu fluide.</p>
+        <a href="https://www.speedtest.net" target="_blank" class="button">Lancer un Test de Vitesse</a>
+
+        <h2>Outils de Diagnostic</h2>
+        <p>Découvrez nos guides et astuces pour optimiser vos paramètres de jeu et matériels.</p>
+        <a href="guides.html" class="button">Guides d'Optimisation</a>
+    </main>
+    <footer>
+        <p>&copy; 2024 OptimizeYourGame - Tous droits réservés.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OptimizeYourGame - Améliorez vos Performances de Jeu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>OptimizeYourGame</h1>
+        <nav>
+            <a href="index.html">Accueil</a>
+            <a href="tools.html">Outils</a>
+            <a href="guides.html">Guides d'Optimisation</a>
+            <a href="support.html">Support</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Améliorez votre Expérience de Jeu</h2>
+        <p>Bienvenue sur OptimizeYourGame, votre site dédié à l'optimisation des performances de vos jeux. Réduisez la latence, augmentez les FPS, et améliorez la qualité de vos sessions de jeu !</p>
+        <a href="tools.html" class="button">Tester mes Performances</a>
+    </main>
+    <footer>
+        <p>&copy; 2024 OptimizeYourGame - Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
